@@ -10,25 +10,8 @@ EXERCISE 3
 
 ## Q1 – Component Diagram from React JS Code
 
-+-------------+
-| index.html |
-+-------------+
-|
-v
-+-------------+
-| main.jsx |
-+-------------+
-|
-v
-+-------------+
-| App.jsx |
-+-------------+
-| | |
-v v v
-+---------+ +---------+ +---------+
-| Header | | Main | | Time |
-| .jsx | | .jsx | | .jsx |
-+---------+ +---------+ +---------+
+<img width="1536" height="1024" alt="ChatGPT Image Feb 7, 2026, 01_16_06 PM" src="https://github.com/user-attachments/assets/34a5d015-d0e9-45e2-900c-db89d998eaaf" />
+
 
 ### Description
 - index.html is the root HTML file.
