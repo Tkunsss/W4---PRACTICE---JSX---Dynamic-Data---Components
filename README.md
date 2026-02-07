@@ -8,3 +8,12 @@ EXERCISE 2
 
 EXERCISE 3
 
+## Q1 – Component Diagram from React JS Code
+App  
+│  
+├── Header  
+├── Main  
+│   ├── ProductList  
+│   │   └── ProductItem  
+│   └── Cart  
+└── Footer
