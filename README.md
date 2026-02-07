@@ -9,5 +9,29 @@ EXERCISE 2
 EXERCISE 3
 
 ## Q1 – Component Diagram from React JS Code
-![Uploading image.png…]()
 
++-------------+
+| index.html |
++-------------+
+|
+v
++-------------+
+| main.jsx |
++-------------+
+|
+v
++-------------+
+| App.jsx |
++-------------+
+| | |
+v v v
++---------+ +---------+ +---------+
+| Header | | Main | | Time |
+| .jsx | | .jsx | | .jsx |
++---------+ +---------+ +---------+
+
+### Description
+- index.html is the root HTML file.
+- main.jsx renders the React app.
+- App.jsx is the main (parent) component.
+- Header.jsx, Main.jsx, and Time.jsx are child components.
