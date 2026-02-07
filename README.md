@@ -9,16 +9,5 @@ EXERCISE 2
 EXERCISE 3
 
 ## Q1 – Component Diagram from React JS Code
-index.html
-   |
-   v
-main.jsx
-   |
-   v
-App.jsx
-   |
-   +-------------------+
-   |        |          |
-   v        v          v
-Header.jsx Main.jsx  Time.jsx
+![Uploading image.png…]()
 
