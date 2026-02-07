@@ -9,11 +9,16 @@ EXERCISE 2
 EXERCISE 3
 
 ## Q1 – Component Diagram from React JS Code
-App  
-│  
-├── Header  
-├── Main  
-│   ├── ProductList  
-│   │   └── ProductItem  
-│   └── Cart  
-└── Footer
+index.html
+   |
+   v
+main.jsx
+   |
+   v
+App.jsx
+   |
+   +-------------------+
+   |        |          |
+   v        v          v
+Header.jsx Main.jsx  Time.jsx
+
